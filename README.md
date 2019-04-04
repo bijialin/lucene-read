@@ -2,9 +2,9 @@
 this is a lucene api test repository
 
 # lucene url
-(https://lucene.apache.org/core/)[https://lucene.apache.org/core/]
+[https://lucene.apache.org/core/](https://lucene.apache.org/core/)
 
-#lucene index test
+# lucene index test
 ````
 /**
 	 * index data to local store by lucene
